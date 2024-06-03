@@ -18,3 +18,5 @@ Simple Todo list app built with React + Vite.
 
 4. Enjoy! ;) 
 
+
+![Screenshot 2024-06-03 at 18 08 05](https://github.com/bluecaterpillar/todo-react/assets/22029842/07af6c5c-4f70-474a-930a-a3f9aebaf683)
